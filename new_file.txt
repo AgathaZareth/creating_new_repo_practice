@@ -1,0 +1,9 @@
+Remember to type "i" to go into insert mode.
+
+to leave insert mode: hit esc
+
+to save and quit: type ":wq"
+
+to quit without saving: type ":q!"
+
+
